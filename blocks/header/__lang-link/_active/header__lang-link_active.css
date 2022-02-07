@@ -1,0 +1,9 @@
+.header__lang-link_active {
+  width: 30px;
+  height: 28px;
+  text-decoration: underline;
+}
+
+.header__lang-link_active:first-of-type {
+  margin: 0;
+}
