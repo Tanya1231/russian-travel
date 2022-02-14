@@ -3,7 +3,6 @@
   grid: repeat(3, 1fr) / repeat(4, 1fr);
   gap: 16px;
   margin: 92px 48px 0;
-  max-width: 1184px;
   box-sizing: border-box;
 }
 
