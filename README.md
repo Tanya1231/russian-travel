@@ -9,3 +9,5 @@
 6. Media queries
 
 В проектной работе реализована адаптивная вёрстка. Одностроничный сайт создан по макету из Figma https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0, оптимизирован для просмотра на экранах от 320 пикселей.
+
+Ссылка на сайт https://tanya1231.github.io/russian-travel/index.html
