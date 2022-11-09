@@ -12,6 +12,7 @@
 
 # Инструкция по установке 
 Запустите локальный сервер
-"git clone git@github.com:Tanya1231/russian-travel.git"
+
+git clone git@github.com:Tanya1231/russian-travel.git
 
 Ссылка на сайт https://tanya1231.github.io/russian-travel/index.html
